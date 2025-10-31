@@ -8,10 +8,10 @@ I tried to keep the design clean and close to the given Figma reference while fo
 
 ## 🔗 Live Demo
 You can check the live version here:  
-👉 [GitHub Pages Link](https://ayush@6129.github.io/interactive-boxes/)
+👉 [GitHub Pages Link](https://ayush6129.github.io/interactive-boxes/)
 
 Repo link:  
-👉 [GitHub Repository](https://github.com/ayush@6129/interactive-boxes)
+👉 [GitHub Repository](https://github.com/ayush6129/interactive-boxes)
 
 ---
 
